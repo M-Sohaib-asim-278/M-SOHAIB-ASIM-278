@@ -1,4 +1,10 @@
-# Hi, I'm Muhammad Sohaib Asim
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=200&section=header&text=Hi,%20I'm%20Muhammad%20Sohaib%20Asim&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20AI%20&%20Automation%20Enthusiast%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+useful+software+%26+modern+web+experiences;Turning+ideas+into+working+products;From+web+applications+to+APIs;Automate.+Learn.+Repeat.&font=Fira%20Code&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22"/>
+
+</div>
 
 ### 🚀 Software Developer | AI & Automation Enthusiast | Full-Stack Developer
 
@@ -17,7 +23,9 @@ I enjoy turning ideas into working products; from web applications to APIs.
 * Interested in building scalable technology products
 * Love experimenting with new technologies and turning ideas into real projects
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=1000"/>
+</div>
 
 ## Tech Stack
 
@@ -42,7 +50,9 @@ I enjoy turning ideas into working products; from web applications to APIs.
 <img src="https://img.shields.io/badge/Database%20Design-4479A1?style=for-the-badge"/>
 </p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=1000"/>
+</div>
 
 ## Featured
 
@@ -58,7 +68,9 @@ Creating modern web applications with clean interfaces and reliable backend syst
 
 Designing and integrating APIs for applications, automation platforms, and third-party services.
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=1000"/>
+</div>
 
 ## GitHub Stats
 
@@ -78,7 +90,9 @@ Designing and integrating APIs for applications, automation platforms, and third
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-SOHAIB-ASIM-278&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=1000"/>
+</div>
 
 ## Currently Exploring
 
@@ -90,7 +104,9 @@ Designing and integrating APIs for applications, automation platforms, and third
 * Cloud Infrastructure
 * Scalable APIs
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=3&width=1000"/>
+</div>
 
 ## Let's Connect
 
@@ -111,3 +127,13 @@ Designing and integrating APIs for applications, automation platforms, and third
 ---
 
 ### *"Build. Automate. Learn. Repeat."*
+
+If you find my projects useful, consider giving them a star!
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=M-SOHAIB-ASIM-278&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=100&section=footer"/>
+
+</div>
